@@ -68,4 +68,4 @@ bot.on("ready", async () => {
 })
 
 
-bot.login('NzMyNjQ1MTQxODM5NjA5OTU4.Xw3m9Q.MENUZSQn6l5JpfxEKXXEmFcERb8');
+bot.login('Your-Bot-Token');
